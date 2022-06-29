@@ -2,12 +2,12 @@ import { initializeApp } from "firebase/app";
 import { getStorage } from "firebase/storage";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyCKy3u2KVCwGb0b0DQP-h-VWC-lyGJcf0c",
-    authDomain: "react-django-2ed41.firebaseapp.com",
-    projectId: "react-django-2ed41",
-    storageBucket: "react-django-2ed41.appspot.com",
-    messagingSenderId: "274479534608",
-    appId: "1:274479534608:web:ef165bec8a7a6492cf7095"
+    apiKey: "AIzaSyAbCrn-GQ03KbiZWY8ZMxm6NRzLzdJ4F9A",
+    authDomain: "react-node-d8e75.firebaseapp.com",
+    projectId: "react-node-d8e75",
+    storageBucket: "react-node-d8e75.appspot.com",
+    messagingSenderId: "936222763312",
+    appId: "1:936222763312:web:68cca4b289a737e35680f5"
 };
 
 const app = initializeApp(firebaseConfig);
